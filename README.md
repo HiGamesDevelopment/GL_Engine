@@ -3,8 +3,8 @@
 
 #Showcasts:
 <p align="center">
-  <img src="images/Showcast1.png" width="450">
-  <img src="images/Showcast2.png" width="450">
+  <img src="images/Showcast1.png" width="49%">
+  <img src="images/Showcast2.png" width="49%">
 </p>
 
 **What is GL_Engine?**
